@@ -1,0 +1,11 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "for dummy js",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "priyanshi",
+  "license": "ISC"
+}
